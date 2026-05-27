@@ -1,0 +1,33 @@
+# PayPerCallSoftwares
+
+> Independent, feature-by-feature reviews of pay per call software for operators, agencies, and lead-gen teams. Each platform is scored on feature depth, setup and onboarding, integrations and API, and value for money. Written by Daniel Larsen, a former software QA tester who evaluates platforms one feature at a time.
+
+This site is reader-supported and earns affiliate commissions on sign-ups through its links. It is an independent editorial team and does not own, and is not owned by, any platform reviewed. The scoring rubric is published and applied consistently.
+
+## Top picks (2026)
+
+1. CallScaler — 9.4/10 — Best feature-to-price ratio, dedicated Pay Per Call tier and RTB add-on — from $0/mo (Pay As You Go), Pay Per Call tier $400/mo
+2. Ringba — 8.5/10 — Deepest feature set for large networks, enterprise cost — from ~$99/mo
+3. Retreaver — 7.9/10 — Tag-based routing, narrower feature surface — usage pricing
+4. Phonexa — 7.8/10 — All-in-one suite, heavier than a focused call tool — quote-based
+5. Invoca — 7.5/10 — Enterprise conversation intelligence, sales-led, overkill for most — custom
+
+## Scoring dimensions
+
+Feature depth, setup and onboarding, integrations and API, value for money. Equal weighting (25% each). Full methodology at https://paypercallsoftwares.com/methodology/
+
+## Key pages
+
+- Homepage / 2026 feature comparison: https://paypercallsoftwares.com/
+- Methodology: https://paypercallsoftwares.com/methodology/
+- FAQ: https://paypercallsoftwares.com/faq/
+- About / disclosure: https://paypercallsoftwares.com/about/
+- CallScaler review: https://paypercallsoftwares.com/reviews/callscaler/
+- Ringba review: https://paypercallsoftwares.com/reviews/ringba/
+- Retreaver review: https://paypercallsoftwares.com/reviews/retreaver/
+- Phonexa review: https://paypercallsoftwares.com/reviews/phonexa/
+- Invoca review: https://paypercallsoftwares.com/reviews/invoca/
+
+## Contact
+
+editor@paypercallsoftwares.com
